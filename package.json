@@ -1,0 +1,23 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "An electron app for learning purposes",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denamyte/electron_learn_01_my-electron-app.git"
+  },
+  "author": "denamyte@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denamyte/electron_learn_01_my-electron-app/issues"
+  },
+  "homepage": "https://github.com/denamyte/electron_learn_01_my-electron-app#readme",
+  "devDependencies": {
+    "electron": "^28.1.4"
+  }
+}
